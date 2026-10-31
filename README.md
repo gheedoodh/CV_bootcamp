@@ -18,7 +18,9 @@ only for me to miss the deadline by 5 mins :\\
 Anyways,
 so the problem statement is 
 ```plaintext
-Train a good image classifier from CIFAR-10N "worst" labels, where ~40% of training labels are wrong due to systematic human annotator errors, and also find which training images are mislabeled.
+Train a good image classifier from CIFAR-10N "worst" labels,
+where ~40% of training labels are wrong due to systematic human annotator errors,
+and also find which training images are mislabeled.
 ```
 well the best of my model from the task 4 was able to achieve a __0.5816__ noisy_val (60% correct data and 40% wrong labels the hard ceiling for any model is 0.60) 
 you can check out the report for more, if you are interested ;)
